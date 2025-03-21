@@ -30,6 +30,10 @@ nbm_nwm_nwps_hawaii.png
 
 nbm_nwm_nwps_puerto_rico.png
 
+🌍 GeoJSON Output:
+
+nwm_nwps.geojson
+
 📊 Data
 
 Ensure the following are available in the directory:
