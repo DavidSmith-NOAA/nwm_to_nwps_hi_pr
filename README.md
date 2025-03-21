@@ -1,4 +1,4 @@
-Short Range NWM Informed NWPS Visualization
+Short Range NWM Informed NWPS Visualization for Hawaii and Puerto Rico
 
 This repository contains Python scripts for visualizing Shorte Range National Water Model (NWM) Informed NWPS data for Hawaii and Puerto Rico. The generated plots help visualize water model data for effective hydrological analysis.
 
