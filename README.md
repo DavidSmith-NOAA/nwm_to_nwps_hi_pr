@@ -34,10 +34,13 @@ nbm_nwm_nwps_puerto_rico.png
 
 nwm_nwps.geojson
 
+<<<<<<< HEAD
 nwm_nwps_hawaii.geojson
 
 nwm_nwps_puerto_rico.geojson
 
+=======
+>>>>>>> 7af677a5597feb53ff95000a0c2f98e86145579b
 📊 Data
 
 Ensure the following are available in the directory:
